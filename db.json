@@ -30,7 +30,14 @@
         }
     ], 
     "products": [
-        
+        {
+            "id": "1",
+            "name": "bylo4ka",
+            "description": "BKYCHI BYLO4KI",
+            "photo_url": "https://eda.ru/images/RecipePhoto/390x390/bulochki-s-makom_174353_photo_181848.jpg",
+            "price": "10grn"
+            
+        }
     ]
 }
 
