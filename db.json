@@ -1,5 +1,19 @@
 {
     "users": [
-        
+        {
+            "id": 777,
+            "name": "maryana",
+            "surname": "paraso4ka",
+            "photo_url": "https://pioneerhunt.ru/upload/media/zhivotnye/493//66a54fff2e1f1.jpg",
+            "balance": 1488
+        },
+        {
+            "id": 888,
+            "name": "tarasik",
+            "surname": "karasik",
+            "photo_url": "https://i.natgeofe.com/k/23e409f9-4699-46f0-a645-5cc1f5040363/pig-full-body_2x1.jpg",
+            "balance": 2599
+        }
     ]
 }
+
