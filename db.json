@@ -36,6 +36,13 @@
             "description": "dog products (Mistsuki)",
             "photo": "https://i.pinimg.com/736x/03/dd/91/03dd91916124a2daae0fb75036ca69ce.jpg",
             "prise": "0"
+        },{  
+            "id": "1",
+            "name": "bylo4ka",
+            "description": "BKYCHI BYLO4KI",
+            "photo_url": "https://eda.ru/images/RecipePhoto/390x390/bulochki-s-makom_174353_photo_181848.jpg",
+            "price": "10grn"
+            
         }
     ]
 }
