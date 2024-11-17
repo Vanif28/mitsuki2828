@@ -30,7 +30,13 @@
         }
     ], 
     "products": [
-        
+        {
+            "id": 1,
+            "name": "shaksdessine",
+            "description": "dog products (Mistsuki)",
+            "photo": "https://i.pinimg.com/736x/03/dd/91/03dd91916124a2daae0fb75036ca69ce.jpg",
+            "prise": "0"
+        }
     ]
 }
 
